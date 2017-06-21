@@ -1,1 +1,1 @@
-C:\Development\Testing\TestXamlVirt\TestXamlVirt\TestXamlVirt\TestXamlVirt.csproj;x86
+C:\Development\GoFormzGitHub\Windows10Virtualization\TestXamlVirt\TestXamlVirt\TestXamlVirt.csproj;x86

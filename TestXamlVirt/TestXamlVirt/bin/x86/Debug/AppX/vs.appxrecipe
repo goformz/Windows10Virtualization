@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>3e5dbb8b-4ce5-4f9c-9459-40e0cb197d1d</PackageIdentityName>
     <PackageIdentityPublisher>CN=KevinHoward</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Development\Testing\TestXamlVirt\TestXamlVirt\TestXamlVirt\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Development\GoFormzGitHub\Windows10Virtualization\TestXamlVirt\TestXamlVirt\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -25,16 +25,16 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Development\Testing\TestXamlVirt\TestXamlVirt\TestXamlVirt\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Development\GoFormzGitHub\Windows10Virtualization\TestXamlVirt\TestXamlVirt\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-06-21T18:25:02.190</Modified>
+      <Modified>2017-06-21T18:44:45.583</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Development\Testing\TestXamlVirt\TestXamlVirt\TestXamlVirt\bin\x86\Debug\TestXamlVirt.exe">
+    <AppxPackagedFile Include="C:\Development\GoFormzGitHub\Windows10Virtualization\TestXamlVirt\TestXamlVirt\bin\x86\Debug\TestXamlVirt.exe">
       <PackagePath>entrypoint\TestXamlVirt.exe</PackagePath>
-      <Modified>2017-06-21T18:25:01.657</Modified>
+      <Modified>2017-06-21T18:44:44.596</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\KevinHoward\.nuget\packages\Microsoft.CSharp\4.0.0\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -448,45 +448,45 @@
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
       <Modified>2015-07-23T06:11:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Testing\TestXamlVirt\TestXamlVirt\TestXamlVirt\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Development\GoFormzGitHub\Windows10Virtualization\TestXamlVirt\TestXamlVirt\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2017-06-14T20:54:42.001</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Testing\TestXamlVirt\TestXamlVirt\TestXamlVirt\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Development\GoFormzGitHub\Windows10Virtualization\TestXamlVirt\TestXamlVirt\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2015-09-21T00:30:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Testing\TestXamlVirt\TestXamlVirt\TestXamlVirt\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Development\GoFormzGitHub\Windows10Virtualization\TestXamlVirt\TestXamlVirt\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-09-21T00:30:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Testing\TestXamlVirt\TestXamlVirt\TestXamlVirt\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Development\GoFormzGitHub\Windows10Virtualization\TestXamlVirt\TestXamlVirt\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-09-21T00:30:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Testing\TestXamlVirt\TestXamlVirt\TestXamlVirt\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Development\GoFormzGitHub\Windows10Virtualization\TestXamlVirt\TestXamlVirt\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-09-21T00:30:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Testing\TestXamlVirt\TestXamlVirt\TestXamlVirt\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Development\GoFormzGitHub\Windows10Virtualization\TestXamlVirt\TestXamlVirt\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-09-21T00:30:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Testing\TestXamlVirt\TestXamlVirt\TestXamlVirt\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Development\GoFormzGitHub\Windows10Virtualization\TestXamlVirt\TestXamlVirt\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-09-21T00:30:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Testing\TestXamlVirt\TestXamlVirt\TestXamlVirt\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Development\GoFormzGitHub\Windows10Virtualization\TestXamlVirt\TestXamlVirt\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-09-21T00:30:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Testing\TestXamlVirt\TestXamlVirt\TestXamlVirt\bin\x86\Debug\TestXamlVirt.xr.xml">
+    <AppxPackagedFile Include="C:\Development\GoFormzGitHub\Windows10Virtualization\TestXamlVirt\TestXamlVirt\bin\x86\Debug\TestXamlVirt.xr.xml">
       <PackagePath>TestXamlVirt.xr.xml</PackagePath>
       <Modified>2017-06-21T18:21:11.695</Modified>
     </AppxPackagedFile>
@@ -494,14 +494,14 @@
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2017-06-09T18:18:34.688</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Testing\TestXamlVirt\TestXamlVirt\TestXamlVirt\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Development\GoFormzGitHub\Windows10Virtualization\TestXamlVirt\TestXamlVirt\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-06-21T18:25:02.036</Modified>
+      <Modified>2017-06-21T18:44:45.363</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\Testing\TestXamlVirt\TestXamlVirt\TestXamlVirt\bin\x86\Debug\Core\TestXamlVirt.exe">
+    <AppxPackagedFile Include="C:\Development\GoFormzGitHub\Windows10Virtualization\TestXamlVirt\TestXamlVirt\bin\x86\Debug\Core\TestXamlVirt.exe">
       <PackagePath>TestXamlVirt.exe</PackagePath>
-      <Modified>2017-06-21T18:25:02.187</Modified>
+      <Modified>2017-06-21T18:44:45.578</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

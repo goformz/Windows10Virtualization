@@ -24,8 +24,8 @@ namespace TestXamlVirt
 
     public class ExampleItemViewModel
     {
-        public static int Pages = 100000;
-        public static int Controls = 10;
+        public static int Pages = 20;
+        public static int Controls = 500;
 
         private ObservableCollection<ExampleItem> exampleItems = new ObservableCollection<ExampleItem>();
         public ObservableCollection<ExampleItem> ExampleItems { get { return this.exampleItems; } }
