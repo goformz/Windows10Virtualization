@@ -1,0 +1,1 @@
+C:\Development\Testing\TestXamlVirt\TestXamlVirt\TestXamlVirt\TestXamlVirt.csproj;x86

@@ -1,0 +1,52 @@
+﻿<Page x:ConnectionId='1'
+    x:Class="TestXamlVirt.TestPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:TestXamlVirt"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <TextBlock x:ConnectionId='2' Text=" &#xE0A6;    " FontFamily="Segoe UI Symbol"                    FontSize="44" Grid.Row="0"/>
+
+        <ListView x:ConnectionId='3'                                               HorizontalAlignment="Center" Grid.Row="1">
+            <ListView.ItemTemplate>
+                <DataTemplate                               >
+                    <StackPanel x:ConnectionId='4' Width="900" Height="1150" Background="LightBlue" HorizontalAlignment="Center">
+
+                        <ItemsControl x:ConnectionId='5'                                              HorizontalAlignment="Left" VerticalAlignment="Top">
+
+                            <ItemsControl.ItemsPanel>
+                                <ItemsPanelTemplate>
+                                    <Canvas Background="Transparent" Width="850" Height="1100" HorizontalAlignment="Left"/>
+                                </ItemsPanelTemplate>
+                            </ItemsControl.ItemsPanel>
+                            <ItemsControl.ItemTemplate>
+                                <DataTemplate                            >
+                                    <local:TestControl x:ConnectionId='6'                                                                                                     Background="Green">
+                                        <local:TestControl.RenderTransform>
+                                            <TranslateTransform X="{Binding X}" Y="{Binding Y}"/>
+                                        </local:TestControl.RenderTransform>
+                                    </local:TestControl>
+                                </DataTemplate>
+                            </ItemsControl.ItemTemplate>
+                        </ItemsControl>
+
+                    </StackPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </Grid>
+</Page>
+
+
