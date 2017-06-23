@@ -10,8 +10,6 @@ namespace TestXamlVirt
     /// </summary>
     public sealed partial class MainPage : Page
     {
-        public ExampleItemViewModel ViewModel = new ExampleItemViewModel();
-
         public MainPage()
         {
             this.InitializeComponent();

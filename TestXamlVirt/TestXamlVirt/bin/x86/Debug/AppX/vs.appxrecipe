@@ -28,13 +28,13 @@
     <AppXManifest Include="C:\Development\GoFormzGitHub\Windows10Virtualization\TestXamlVirt\TestXamlVirt\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-06-21T18:44:45.583</Modified>
+      <Modified>2017-06-23T16:20:18.863</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Development\GoFormzGitHub\Windows10Virtualization\TestXamlVirt\TestXamlVirt\bin\x86\Debug\TestXamlVirt.exe">
       <PackagePath>entrypoint\TestXamlVirt.exe</PackagePath>
-      <Modified>2017-06-21T18:44:44.596</Modified>
+      <Modified>2017-06-23T16:20:18.334</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\KevinHoward\.nuget\packages\Microsoft.CSharp\4.0.0\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -488,7 +488,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Development\GoFormzGitHub\Windows10Virtualization\TestXamlVirt\TestXamlVirt\bin\x86\Debug\TestXamlVirt.xr.xml">
       <PackagePath>TestXamlVirt.xr.xml</PackagePath>
-      <Modified>2017-06-21T18:21:11.695</Modified>
+      <Modified>2017-06-23T16:19:38.596</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -497,11 +497,11 @@
     <AppxPackagedFile Include="C:\Development\GoFormzGitHub\Windows10Virtualization\TestXamlVirt\TestXamlVirt\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-06-21T18:44:45.363</Modified>
+      <Modified>2017-06-23T16:20:18.708</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Development\GoFormzGitHub\Windows10Virtualization\TestXamlVirt\TestXamlVirt\bin\x86\Debug\Core\TestXamlVirt.exe">
       <PackagePath>TestXamlVirt.exe</PackagePath>
-      <Modified>2017-06-21T18:44:45.578</Modified>
+      <Modified>2017-06-23T16:20:18.855</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
